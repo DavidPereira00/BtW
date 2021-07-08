@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 1a86e5fc0403f8e4b9c3393d9bc7b34d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabItemUI: {fileID: 3081057657734247273, guid: 8906a47190d393842bf8a444acb5a7f7,
+      type: 3}
+  - playerHealthPackSprite: {fileID: 21300000, guid: 487755be3882d0547b7448f702db0a21,
+      type: 3}
+  - squadronHeathPackSprite: {fileID: 21300000, guid: dc01cf5bdde9131428617e78f956ba18,
+      type: 3}
+  - waterSprite: {fileID: 21300000, guid: 5ca19b522284b1148a81f58121356684, type: 3}
+  - proteinBarSprite: {fileID: 21300000, guid: 7c4cf9b51cd9a2746ad69eb6231d742a, type: 3}
+  - breadSprite: {fileID: 21300000, guid: 2347a833596e6714f9203c7e2fbf5ccb, type: 3}
+  - cannedFoodSprite: {fileID: 21300000, guid: 57e229847e341414593a183617c584d8, type: 3}
+  - tuberculosisPillSprite: {fileID: 21300000, guid: fa0276789ca45364094518dcb7b0896f,
+      type: 3}
+  - feverPillSprite: {fileID: 21300000, guid: 4be2e6efe5cd2b74294800cea688bdf3, type: 3}
+  - hepBPillSprite: {fileID: 21300000, guid: 8e91497bd6d0c8d4e973d44e64aa6cd7, type: 3}
+  - influenzaPillSprite: {fileID: 21300000, guid: fa8ccbb1b928983478b5afc94d1f7a13,
+      type: 3}
+  - bandagesSprite: {fileID: 21300000, guid: 6982b07f14892cd4a837be153c72b528, type: 3}
+  - splintSprite: {fileID: 21300000, guid: 6e4d85fd17aac104fa714a9ec3b7f1ae, type: 3}
+  - antissepticSprite: {fileID: 21300000, guid: 146bc149b254da140a5c942d2af2ca4d,
+      type: 3}
+  - o2maskSprite: {fileID: 21300000, guid: 87e0809425490e54cbd66f3c96bfd13d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
